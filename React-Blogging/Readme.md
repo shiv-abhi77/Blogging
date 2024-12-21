@@ -1,11 +1,6 @@
 # React-Blogging
 
 ## MERN-STACK Development
-
-<div align="center">
-  <img src="./pro.gif" align="center"/>
-</div>
-
 ---
 
 # Key Features
@@ -30,8 +25,3 @@
 
 <p>User can Edit only his/her Blog Post or can delete Post</p>
 
----
-
-PROJECT LINK --- [Click Here](https://react-blogging-4c2fc.firebaseapp.com/)
-
----
